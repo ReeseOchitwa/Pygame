@@ -17,4 +17,4 @@ Rainbows and birds will not reset after you die.
 
 The top left displays the current level and your score.
 
-<img src="Users\reese\OneDrive\Pictures\Screenshots\fishgame.png"/>
+<img src="https://user-images.githubusercontent.com/123213606/235329504-f5562dd3-5f81-45d0-8fd8-e5d45216dd23.png"/>
