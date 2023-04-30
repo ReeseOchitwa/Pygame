@@ -22,7 +22,7 @@ class Lava(pygame.sprite.Sprite):
         #   self.image = pygame.image.load(os.path.join("images", "platform_tile.png"))
         # with this method create_image instead 
         # You don't need to understand how it works to use it
-        self.image = self.create_image(os.path.join('Ochitwa_Reese_Tuesday_Final_Project',"images", "lava_wide.png"), width, height)
+        self.image = self.create_image(os.path.join("images", "lava_wide.png"), width, height)
 
         self.rect = self.image.get_rect()
         self.rect.x = x

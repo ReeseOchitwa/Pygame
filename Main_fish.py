@@ -118,7 +118,7 @@ players = pygame.sprite.Group()
 players.add(player)
 
 # CREATE AND GROUP BACKGROUND, Set to clouds
-background = Background(("Ochitwa_Reese_Tuesday_Final_Project/images/clouds.webp"), [0,0])
+background = Background(("images/clouds.webp"), [0,0])
 backgrounds = pygame.sprite.Group()
 backgrounds.add(background)
 
@@ -213,7 +213,7 @@ while play_game:
     #IF ALL RAINBOWS COLLECTED
     else:  
         #CHANGE BACKGROUND TO FISH
-        background = Background(("Ochitwa_Reese_Tuesday_Final_Project/images/fish_back.jpg"), [0,0])
+        background = Background(("images/fish_back.jpg"), [0,0])
         backgrounds.add(background)
         backgrounds.draw(screen)
         

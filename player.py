@@ -10,8 +10,8 @@ class Player(pygame.sprite. Sprite):
         self.isAnimating = False
 
         self.sprites = []
-        self.sprites.append(pygame.image.load(os.path.join("Ochitwa_Reese_Tuesday_Final_Project",'images', 'fish1.png')))
-        self.sprites.append(pygame.image.load(os.path.join('Ochitwa_Reese_Tuesday_Final_Project','images', 'fish2.png')))
+        self.sprites.append(pygame.image.load(os.path.join('images', 'fish1.png')))
+        self.sprites.append(pygame.image.load(os.path.join('images', 'fish2.png')))
         self.current_sprite = 0    
         self.image = self.sprites[self.current_sprite]
 
