@@ -16,3 +16,5 @@ use the lava to go back and collect the rest.
 Rainbows and birds will not reset after you die.
 
 The top left displays the current level and your score.
+
+<img src="C:\Users\reese\OneDrive\Pictures\Screenshots\fishgame.png"/>
